@@ -76,7 +76,10 @@ def right():
  
 
 # Your code to control the robot goes below this line
+
 forwards()
 time.sleep(2)
+right()
+time.sleep(4)
 stopmotors
 GPIO.cleanup()

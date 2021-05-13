@@ -12,7 +12,7 @@ Step2. Adjust the pin values so the robot acts as expected
 Examples:
 If motora goes backwards when it should go forwards, I would switch motorA_pin1 and motorA_pin2
 
-If the robot turns left when it should turn right, I would swap motorB and motorB
+If the robot turns left when it should turn right, I would swap motorA and motorB
 """
 motorA_pin1 = 10
 motorA_pin2 = 9
